@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Tên người yêu bạn à!',
+    introTitle: 'En gái thân yêu của chị à!',
     introDesc: `Trái đất vốn lạ thường
     Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Lạc vào tim chị lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    title: 'Em có một người chị vô cùng xinh đẹp phớ hôm 😙',
+    desc: 'Chị biết mà hô hô chị xinh ơi là xinh luôn phớ hôm ',
+    btnYes: 'Đúng rồi chị yêu của em xinh đẹp nhất thế giới',
+    btnNo: 'Khum chị xấu vl',
+    question:'Thế gian kia có 7 tỉ người sao em thấy mỗi chị xinh đẹp vậy em :>',
+    btnReply: 'Gửi cho chị nhe <3',
+    reply: 'Vì chị là một người vừa đoan trang dịu dàng lại đáng yêu',
+    mess: 'chị biết mà 🥰. Chị yêu em nhiều nhiều 😘😘',
+    messDesc: 'Chị biết chị đẹp nên lần sau đừng ngại bày tỏ với chị nha êm gái.',
+    btnAccept: 'Dạ chị yêu',
+    messLink: 'https://www.facebook.com/messages/t/100051156946244. 
 }
